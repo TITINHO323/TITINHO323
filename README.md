@@ -7,5 +7,4 @@
 - 📫 Podem me reconhecer pelo apelido TITINHO
 - 😄 Fico bastante feliz em sair com os amigos
 - ⚡ Faço academia todos os dias
--
 
