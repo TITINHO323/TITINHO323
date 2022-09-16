@@ -1,16 +1,11 @@
-### Hi there 👋
+## Olá,meu nome é Gabriel Henrique Borges
+- 🔭 Atualmente estudo no colégio SESI
+- 🌱 Estou no segundo ano do ensino médio
+- 👯 Penso em seguir com a faculdade de TI
+- 🤔 Penso em jogar basquete profissional
+- 💬 Sou bem extrovertido
+- 📫 Podem me reconhecer pelo apelido TITINHO
+- 😄 Fico bastante feliz em sair com os amigos
+- ⚡ Faço academia todos os dias
+-
 
-<!--
-**TITINHO323/TITINHO323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
