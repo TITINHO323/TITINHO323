@@ -5,6 +5,6 @@
 - 🤔 Penso em jogar basquete profissional
 - 💬 Sou bem extrovertido
 - 📫 Podem me reconhecer pelo apelido TITINHO
-- 😄 Fico bastante feliz em sair com os amigos
+- 😄 Fico de boa quando saio com os amigos
 - ⚡ Faço academia todos os dias
 
